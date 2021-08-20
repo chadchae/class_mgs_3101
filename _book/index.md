@@ -1,5 +1,5 @@
 --- 
-title: "A Minimal Book Example"
+title: "MGS 3101"
 author: "John Doe"
 date: "2021-08-20"
 site: bookdown::bookdown_site
